@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Logan
-- 👀 I’m interested in Golang, Java, Devops
-- 🌱 I’m currently learning Go, Gin, Blockchain
+- 👀 I’m interested in Java, Golang, Devops
+- 🌱 I’m currently learning Spring, Java, Go, Blockchain
 - 📫 How to reach me: ralla0405@gmail.com
 - 😊 Thank you
 <!---
