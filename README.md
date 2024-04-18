@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 🛠️ Github Stats
   
   <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ralla0405&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ralla0405&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ralla0405&show_icons=true&include_all_commits=true&bg_color=30,FC5A77,FEBDC9&title_color=fff&text_color=fff">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ralla0405&layout=compact&bg_color=30,FC5A77,FEBDC9&title_color=fff&text_color=fff">
 </p>
  <br/>
