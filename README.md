@@ -4,7 +4,7 @@
 <h3 align="left">✨ Tech stack ✨</h3> 
 <h4 align="left">👝 BackEnd</h4>
 <p>
-  <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
   <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=white">
@@ -14,7 +14,7 @@
 <p>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white">
   <img src="https://img.shields.io/badge/Fiber-00ADD8?style=flat-square&logo=Fiber&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GORM-00ADD8?style=flat-square&logo=GORM&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gorm-00ADD8?style=flat-square&logo=GORM&logoColor=white"/>
 </p>
 <p>
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black">
@@ -22,10 +22,10 @@
   <img src="https://img.shields.io/badge/NodeRed-8F0000?style=flat-square&logo=NodeRed&logoColor=white">
 </p>
 <p>
-  <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white">
-  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
-  <img src="https://img.shields.io/badge/MONGODB-47A248?style=flat-square&logo=MongoDB&logoColor=white">
-  <img src="https://img.shields.io/badge/REDIS-FF4438?style=flat-square&logo=Redis&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white">
+  <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=Redis&logoColor=white">
 </p>
 <br>
 <h4 align="left">🌎 Infrastructure, CI/CD</h4>
@@ -35,17 +35,17 @@
   <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=AmazonS3&logoColor=white">
   <img src="https://img.shields.io/badge/SQS-FF4F8B?style=flat-square&logo=AmazonSqs&logoColor=white">
   <img src="https://img.shields.io/badge/SES-DD344C?style=flat-square&logo=AmazonSimpleEmailService&logoColor=white">
-  <img src="https://img.shields.io/badge/ROUTE53-8C4FFF?style=flat-square&logo=AmazonRoute53&logoColor=white">
+  <img src="https://img.shields.io/badge/ROUTE 53-8C4FFF?style=flat-square&logo=AmazonRoute53&logoColor=white">
   <img src="https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=AmazonRds&logoColor=white">
 </p>
 <p>
-  <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=Oracle&logoColor=white">
-  <img src="https://img.shields.io/badge/FIREBASE-DD2C00?style=flat-square&logo=Firebase&logoColor=white">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=Firebase&logoColor=white">
 </p>
 <p>
   <img src="https://img.shields.io/badge/docker-0db7ed.svg?style=flat-square&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/nginx-009639.svg?style=flat-square&logo=nginx&logoColor=white">
-  <img src="https://img.shields.io/badge/JENKINS-D24939?style=flat-square&logo=Jenkins&logoColor=white">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white">
   <img src="https://img.shields.io/badge/GitLabCI/CD-E24329?style=flat-square&logo=Gitlab&logoColor=white">
 </p>
 <br>
@@ -60,6 +60,16 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white">
+</p>
+<br>
+<h4 align="left">📱 Mobile</h4>
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
+  <img src="https://img.shields.io/badge/Android-34A853?style=flat-square&logo=Android&logoColor=white">
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white">
+  <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Ios&logoColor=white">
 </p>
 <br>
 <h4 align="left">🛠️ Tools</h4>
