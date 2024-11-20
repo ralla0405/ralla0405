@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=250&section=header&text=Developer&fontSize=50&fontAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Developer&fontSize=80&animation=fadeIn&fontAlign=70&fontAlignY=40)
 - 👋 Hi, I’m Logan
 - 👀 I’m interested in Java, Golang, Devops
 - 🌱 I’m currently learning Spring, Java, Go, Blockchain
