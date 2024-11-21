@@ -90,4 +90,6 @@
   　
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ralla0405&layout=compact&bg_color=30,302527,302527&title_color=fff&text_color=fff">
 </p>
- <br/>
+<br/>
+
+![snake gif](https://github.com/ralla0405/ralla0405/blob/output/github-contribution-grid-snake.svg)
