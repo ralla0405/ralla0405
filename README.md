@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text={Developer}&fontSize=80&animation=fadeIn&fontAlign=50&fontAlignY=40)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=FFFFFF&background=302527&vCenter=true&width=854&height=70&lines=%24+Hi%2C+There;%24+8%2B+years+of+development+experience.;%24+Collaborative+team+player.;%24+Passionate+about+innovative+solutions.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=FFFFFF&background=302527&vCenter=true&width=854&height=70&lines=%24+Hi%2C+There;%24+7%2B+years+of+development+experience.;%24+Collaborative+team+player.;%24+Passionate+about+innovative+solutions.)](https://git.io/typing-svg)
 
 <h3 align="left">✨ Tech stack ✨</h3> 
 <h4 align="left">👝 BackEnd</h4>
